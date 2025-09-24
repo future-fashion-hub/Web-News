@@ -2,6 +2,10 @@
 node_modules
 .idea
 /storybook-static
+.loki/
+.deploy/
+/reports/
+yarn.lock
 .loki/report.html
 .loki/report.json
 /reports/unit
